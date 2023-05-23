@@ -1,7 +1,12 @@
 {
-  "name": "Next.js Notion Starter Kit",
-  "short_name": "Starter Kit",
+  "name": "Joshua Snyder - Website",
+  "short_name": "Joshua Snyder",
   "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
     {
       "src": "/favicon.png",
       "type": "image/png",
